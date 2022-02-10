@@ -1,0 +1,69 @@
+D:\Học Tập\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\bin\Debug\Đồ án ngành 2021.exe.config
+D:\Học Tập\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ án ngành 2021.csprojResolveAssemblyReference.cache
+D:\Học Tập\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\bin\Debug\Đồ án ngành 2021.exe
+D:\Học Tập\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\bin\Debug\Đồ án ngành 2021.pdb
+D:\Học Tập\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Form1.resources
+D:\Học Tập\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Properties.Resources.resources
+D:\Học Tập\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Quản_lý_nhân_viên.resources
+D:\Học Tập\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Quản_lý_tài_khoản.resources
+D:\Học Tập\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Quản_lý.resources
+D:\Học Tập\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Đổi_mật_khẩu_quản_lý.resources
+D:\Học Tập\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ án ngành 2021.csproj.GenerateResource.Cache
+D:\Học Tập\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ án ngành 2021.exe
+D:\Học Tập\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ án ngành 2021.pdb
+D:\Học Tập\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Quản_lý_lương.resources
+D:\Học Tập\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Quản_lý_ngày_công.resources
+D:\Học Tập\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Nhân_viên.resources
+D:\Học Tập\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Xem_ngày_công.resources
+D:\Học Tập\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Shop.resources
+D:\Học Tập\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Sản_phẩm.resources
+D:\Học Tập\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Quản_lý_ca_trực.resources
+D:\Học Tập\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Ca_trực_nhân_viên.resources
+D:\Học Tập\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Doanh_thu.resources
+D:\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\bin\Debug\Đồ án ngành 2021.exe.config
+D:\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ án ngành 2021.exe
+D:\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ án ngành 2021.pdb
+D:\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\bin\Debug\Đồ án ngành 2021.exe
+D:\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\bin\Debug\Đồ án ngành 2021.pdb
+D:\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ án ngành 2021.csprojResolveAssemblyReference.cache
+D:\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Ca_trực_nhân_viên.resources
+D:\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Doanh_thu.resources
+D:\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Form1.resources
+D:\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Nhân_viên.resources
+D:\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Properties.Resources.resources
+D:\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Quản_lý_ca_trực.resources
+D:\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Quản_lý_lương.resources
+D:\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Quản_lý_ngày_công.resources
+D:\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Quản_lý_nhân_viên.resources
+D:\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Quản_lý_tài_khoản.resources
+D:\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Quản_lý.resources
+D:\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Shop.resources
+D:\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Sản_phẩm.resources
+D:\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Xem_ngày_công.resources
+D:\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Đổi_mật_khẩu_quản_lý.resources
+D:\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ án ngành 2021.csproj.GenerateResource.Cache
+D:\Successfully\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\bin\Debug\Đồ án ngành 2021.exe.config
+D:\Successfully\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ án ngành 2021.exe
+D:\Successfully\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ án ngành 2021.pdb
+D:\Lap Trinh\Successfully\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\bin\Debug\Đồ án ngành 2021.exe.config
+D:\Lap Trinh\Successfully\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ án ngành 2021.exe
+D:\Lap Trinh\Successfully\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ án ngành 2021.pdb
+D:\Lap Trinh\Successfully\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\bin\Debug\Đồ án ngành 2021.exe
+D:\Lap Trinh\Successfully\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\bin\Debug\Đồ án ngành 2021.pdb
+D:\Lap Trinh\Successfully\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ án ngành 2021.csprojResolveAssemblyReference.cache
+D:\Lap Trinh\Successfully\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Ca_trực_nhân_viên.resources
+D:\Lap Trinh\Successfully\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Doanh_thu.resources
+D:\Lap Trinh\Successfully\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Form1.resources
+D:\Lap Trinh\Successfully\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Nhân_viên.resources
+D:\Lap Trinh\Successfully\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Properties.Resources.resources
+D:\Lap Trinh\Successfully\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Quản_lý_ca_trực.resources
+D:\Lap Trinh\Successfully\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Quản_lý_lương.resources
+D:\Lap Trinh\Successfully\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Quản_lý_ngày_công.resources
+D:\Lap Trinh\Successfully\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Quản_lý_nhân_viên.resources
+D:\Lap Trinh\Successfully\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Quản_lý_tài_khoản.resources
+D:\Lap Trinh\Successfully\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Quản_lý.resources
+D:\Lap Trinh\Successfully\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Shop.resources
+D:\Lap Trinh\Successfully\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Sản_phẩm.resources
+D:\Lap Trinh\Successfully\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Xem_ngày_công.resources
+D:\Lap Trinh\Successfully\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ_án_ngành_2021.Đổi_mật_khẩu_quản_lý.resources
+D:\Lap Trinh\Successfully\Đồ án cuối kì\Đồ án\Đồ án ngành 2021\Đồ án ngành 2021\obj\Debug\Đồ án ngành 2021.csproj.GenerateResource.Cache
